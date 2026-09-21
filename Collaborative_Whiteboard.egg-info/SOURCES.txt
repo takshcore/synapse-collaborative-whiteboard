@@ -1,0 +1,5 @@
+setup.py
+Collaborative_Whiteboard.egg-info/PKG-INFO
+Collaborative_Whiteboard.egg-info/SOURCES.txt
+Collaborative_Whiteboard.egg-info/dependency_links.txt
+Collaborative_Whiteboard.egg-info/top_level.txt

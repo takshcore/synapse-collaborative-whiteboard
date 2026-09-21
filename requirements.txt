@@ -1,0 +1,21 @@
+# Python packages
+flask
+flask-socketio
+eventlet
+
+# Desktop GUI
+PyQt6
+
+# SocketIO async client
+python-socketio[asyncio_client]
+aiohttp
+
+# WebRTC voice
+aiortc
+
+# Audio capture/playback
+sounddevice
+numpy
+
+# AV frames (required by aiortc)
+av

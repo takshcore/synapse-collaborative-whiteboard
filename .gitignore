@@ -1,0 +1,12 @@
+﻿venv/
+venv311/
+my-whiteboard-app/
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
